@@ -1,0 +1,118 @@
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\BankowaAplikacjaBazodanowaMP.dll.config
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\BankowaAplikacjaBazodanowaMP.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\BankowaAplikacjaBazodanowaMP.pdb
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\csc.exe
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\csc.exe.config
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\csc.rsp
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\csi.exe
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\csi.exe.config
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\csi.rsp
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.AppContext.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Console.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.Compression.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Net.Http.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Net.Sockets.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.ValueTuple.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.XPath.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\vbc.exe
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\vbc.exe.config
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\vbc.rsp
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\VBCSCompiler.exe
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.csproj.AssemblyReference.cache
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.csproj.CopyComplete
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.dll
+C:\Dokumenty\Centrum Informacji ☻\WWSIS\PRACA DYPLOMOWA\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.pdb
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\BankowaAplikacjaBazodanowaMP.dll.config
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\BankowaAplikacjaBazodanowaMP.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\BankowaAplikacjaBazodanowaMP.pdb
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\csc.exe
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\csc.exe.config
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\csc.rsp
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\csi.exe
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\csi.exe.config
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\csi.rsp
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.AppContext.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Console.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Net.Http.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\vbc.exe
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\vbc.exe.config
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\vbc.rsp
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.csproj.AssemblyReference.cache
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.csproj.CoreCompileInputs.cache
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.csproj.CopyComplete
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.dll
+C:\Users\Marcin Płaczek\Desktop\WWSIS_PROJEKT_DYPLOMOWY_MPLACZEK\BankowaAplikacjaBazodanowaMP\obj\Debug\BankowaAplikacjaBazodanowaMP.pdb
